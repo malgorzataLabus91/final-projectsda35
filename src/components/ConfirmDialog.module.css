@@ -1,0 +1,13 @@
+.dialog{
+    position: fixed;
+    top: 150px;
+    width: 300px;
+    height: 150px;
+    background: white;
+    left: 40%;
+    align-items: center;   
+    color: red;
+    justify-content: space-between;
+    border: 40px;
+    padding: 3px;
+}
